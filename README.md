@@ -1,4 +1,4 @@
-# `LULINUX`
+# `LULINUCS`
 
 ```text
 luli@github:~$ whoami
