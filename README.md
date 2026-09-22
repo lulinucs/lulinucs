@@ -32,6 +32,6 @@ luli@github:~$ ./lulinux_os
 > explore_
 ```
 
-## **[ ABRIR LULINUX_OS → ](URL_DO_PORTFOLIO)**
+## **[ ABRIR LULINUX_OS → ](https://lulinucs.duckdns.org/)**
 
 <sub>↓ ou fuça os repositórios. tem coisa de várias épocas por aqui.</sub>
